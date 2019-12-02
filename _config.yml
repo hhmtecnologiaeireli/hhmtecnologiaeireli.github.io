@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to HHM Tecnologia da Informação Eireli
+github:
+  is_project_page: false
