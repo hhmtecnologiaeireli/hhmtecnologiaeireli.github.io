@@ -1,8 +1,6 @@
 ## HHM Tecnologia da Informação Eireli
 
-You can use the [editor on GitHub](https://github.com/hhmtecnologiaeireli/hhmtecnologiaeireli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We at HHM Tech provide consultancy for IT services and our focus is on IT training, telecom and general equipment configuration. All those activities are primary performed remotely since we just need a topology and ssh access to your IT Infrastructure, training can be in company and will be provided by one of our certified telecom instructors (routers, switches and general network specialists) .
 
 ### Markdown
 
