@@ -1,35 +1,17 @@
 ## HHM Tecnologia da Informação Eireli
 
-We at HHM Tech provide consultancy for IT services and our focus is on IT training, telecom and general equipment configuration. All those activities are primary performed remotely since we just need a topology and ssh access to your IT Infrastructure, training can be in company and will be provided by one a certified instructor.
+We at HHM Tech provide consultancy for IT services and our focus is on script automation and general cloud configuration. All those activities are performed remotely and can also be in-person on a client/project basis.
 
-### Markdown
+### General Activities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Custom Transact SQL Scripts.
+- Stored Procedures for Job Automation.
+- Triggers for General Integrations.
+- Azure Environment Configuration.
+- Azure Triggering Configuration.
+- Azure Cron Jobs.
 
-```markdown
-Syntax highlighted code block
+### Contact:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hhmtecnologiaeireli/hhmtecnologiaeireli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The best way to reach us is through [marcoshass@icloud.com](mailto:marcoshass@icloud.com).
+So we could better evaluate your projects and specific needs.
