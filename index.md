@@ -13,4 +13,4 @@ We at HHM Tech provide consultancy for IT services and our focus is on script au
 ### Contact:
 
 The best way to reach us is through [marcoshass@icloud.com](mailto:marcoshass@icloud.com).
-So we could better evaluate your projects and specific needs.
+So we could better evaluate your projects and specific needs and provide our portfolio of solutions to give an idea of the projects already delivered.
