@@ -1,6 +1,6 @@
 ## HHM Tecnologia da Informação Eireli
 
-We at HHM Tech provide consultancy for IT services and our focus is on IT training, telecom and general equipment configuration. All those activities are primary performed remotely since we just need a topology and ssh access to your IT Infrastructure, training can be in company and will be provided by one a certified telecom instructor, generally a person that is an specialist on its field such as Dell Blade Switches, Dell Routers and Cisco Network Equipment.
+We at HHM Tech provide consultancy for IT services and our focus is on IT training, telecom and general equipment configuration. All those activities are primary performed remotely since we just need a topology and ssh access to your IT Infrastructure, training can be in company and will be provided by one a certified instructor.
 
 ### Markdown
 
