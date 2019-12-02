@@ -8,7 +8,6 @@ We at HHM Tech provide consultancy for IT services and our focus is on script au
 - Stored Procedures for Job Automation.
 - Triggers for General Integrations.
 - Azure Environment Configuration.
-- Azure Triggering Configuration.
 - Azure Cron Jobs.
 
 ### Contact:
